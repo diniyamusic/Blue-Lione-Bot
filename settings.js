@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
+global.OWNER_REACT = '🧑🏻‍💻🥳'
 global.REACT_NUMBER = '94714188730'
 
 //aumto functioner
